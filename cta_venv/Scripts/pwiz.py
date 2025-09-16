@@ -1,4 +1,4 @@
-#!c:\Users\Will\Downloads\Python\CTA Forecast\cta_venv\Scripts\python.exe
+#!C:\Users\Will\Downloads\Python\CTA Forecast\cta_venv\Scripts\python.exe
 
 import datetime
 import os

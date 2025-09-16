@@ -1,0 +1,14 @@
+# Ignore virtual environments
+.venv/
+cta_venv/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore Jupyter noise
+.ipynb_checkpoints/
+
+# Ignore OS junk
+.DS_Store
+Thumbs.db
